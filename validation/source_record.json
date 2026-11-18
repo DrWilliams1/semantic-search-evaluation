@@ -1,0 +1,5 @@
+{
+  "changes": "New benchmark experiment extending Chapter 8; original attachment left unchanged. Uses local pinned models, BEIR SciFact, held-out evaluation, explicit timing and verification.",
+  "sha256": "519b3cec3b5bf144e83f92bc619740041b2dcc6fa1313747daa83f3d6016df1e",
+  "uploaded_notebook": "Copy of Chapter 8 - Semantic Search.ipynb"
+}

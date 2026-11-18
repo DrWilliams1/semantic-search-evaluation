@@ -1,0 +1,6 @@
+{
+  "random_ndcg_comparisons_with_sklearn": 100,
+  "seed": 2026,
+  "status": "passed",
+  "unit_tests": 13
+}
