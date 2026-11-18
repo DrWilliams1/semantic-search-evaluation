@@ -1,0 +1,6 @@
+{
+  "bm25_tokenize_and_index_seconds": 0.8322535490000007,
+  "dense_corpus_encode_seconds": 18.138281637000034,
+  "dense_embedding_bytes": 7961088,
+  "neural_model_load_seconds_including_any_download": 6.332588614000002
+}

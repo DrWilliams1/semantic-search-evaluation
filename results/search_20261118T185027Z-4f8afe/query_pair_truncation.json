@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dense_queries_truncated": 0,
+    "queries": 50,
+    "reranker_pairs": 2500,
+    "reranker_pairs_truncated": 289
+  },
+  "test": {
+    "dense_queries_truncated": 0,
+    "queries": 300,
+    "reranker_pairs": 15000,
+    "reranker_pairs_truncated": 2037
+  }
+}

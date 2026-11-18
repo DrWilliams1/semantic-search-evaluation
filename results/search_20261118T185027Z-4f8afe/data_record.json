@@ -1,0 +1,37 @@
+{
+  "corpus_documents": 5183,
+  "corpus_order_sha256": "07590b0c35c31a15fda4883f8e9ebbcacf55ae74bd97d0bd95c743ee4191a2d7",
+  "duplicate_normalized_documents": 0,
+  "official_test_queries": 300,
+  "official_train_queries": 809,
+  "query_mapping_sha256": "51c1444b5f7db2b37114215a7a7d8a5ec4b14aa0d0d55f4b0d1160a29b309351",
+  "query_records": 1109,
+  "shared_relevant_document_ids": 181,
+  "source_files": {
+    "corpus": {
+      "file": "corpus/corpus-00000-of-00001.parquet",
+      "repository": "BeIR/scifact",
+      "revision": "b3b5335604bf5ee3c4447671af975ea25143d4f5",
+      "sha256": "243324b35f03d82bd6d98a5f575966876e86cad7ce16e5333a35b1b793dc4f45"
+    },
+    "queries": {
+      "file": "queries/queries-00000-of-00001.parquet",
+      "repository": "BeIR/scifact",
+      "revision": "b3b5335604bf5ee3c4447671af975ea25143d4f5",
+      "sha256": "1c37956c5dc8b810b60302323c24d1a9e79e26411ba8f5ad9d0888642e2a9034"
+    },
+    "test": {
+      "file": "test.tsv",
+      "repository": "BeIR/scifact-qrels",
+      "revision": "2938d17dc3b09882fdb8c12bbbe2e2dc0e75a029",
+      "sha256": "0864bb985e0ca2367ba217977e72004d549054b2b06666ed9d4825ac7c21284c"
+    },
+    "train": {
+      "file": "train.tsv",
+      "repository": "BeIR/scifact-qrels",
+      "revision": "2938d17dc3b09882fdb8c12bbbe2e2dc0e75a029",
+      "sha256": "a53f2114831916c096b6c37d9e54da68cef4efdcdbd5ed46533601af972acf1d"
+    }
+  },
+  "train_test_normalized_query_overlap": 2
+}

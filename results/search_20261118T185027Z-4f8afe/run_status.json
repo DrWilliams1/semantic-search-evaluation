@@ -1,0 +1,13 @@
+{
+  "benchmark": "BEIR SciFact",
+  "development_queries": 50,
+  "methods": [
+    "bm25",
+    "dense",
+    "bm25_reranked"
+  ],
+  "model_training_performed": false,
+  "run_id": "search_20261118T185027Z-4f8afe",
+  "status": "completed",
+  "test_queries": 300
+}

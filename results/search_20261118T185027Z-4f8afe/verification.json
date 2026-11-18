@@ -1,0 +1,12 @@
+{
+  "hashed_files": 33,
+  "latency_trials": 180,
+  "methods": [
+    "bm25",
+    "dense",
+    "bm25_reranked"
+  ],
+  "query_method_rankings": 1050,
+  "scope": "Saved evidence consistency; not a repeat of model inference or a relevance-label audit.",
+  "status": "passed"
+}

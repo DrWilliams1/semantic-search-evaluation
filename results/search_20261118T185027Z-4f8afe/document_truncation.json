@@ -1,0 +1,7 @@
+{
+  "corpus_documents": 5183,
+  "dense_document_token_max": 1939,
+  "dense_documents_truncated": 3681,
+  "dense_max_tokens": 256,
+  "reranker_max_tokens": 512
+}

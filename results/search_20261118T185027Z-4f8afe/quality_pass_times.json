@@ -1,0 +1,5 @@
+{
+  "development_seconds": 20.63638189300002,
+  "note": "Quality-pass wall time includes bookkeeping/audits; use latency_summary for query latency.",
+  "test_seconds": 111.05901023900003
+}

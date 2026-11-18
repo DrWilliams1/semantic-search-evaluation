@@ -1,0 +1,32 @@
+[
+  {
+    "method": "bm25",
+    "mrr@10": 0.6022460317460316,
+    "n_queries": 50,
+    "ndcg@10": 0.6509830981747032,
+    "recall@10": 0.8,
+    "recall@5": 0.6983333333333333,
+    "recall@50": 0.85,
+    "split": "development"
+  },
+  {
+    "method": "dense",
+    "mrr@10": 0.682,
+    "n_queries": 50,
+    "ndcg@10": 0.6980905062377496,
+    "recall@10": 0.765,
+    "recall@5": 0.745,
+    "recall@50": 0.875,
+    "split": "development"
+  },
+  {
+    "method": "bm25_reranked",
+    "mrr@10": 0.6895555555555555,
+    "n_queries": 50,
+    "ndcg@10": 0.709408621391067,
+    "recall@10": 0.775,
+    "recall@5": 0.7083333333333333,
+    "recall@50": 0.85,
+    "split": "development"
+  }
+]
