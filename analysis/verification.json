@@ -1,0 +1,22 @@
+{
+  "archive_files_preserved": 35,
+  "development_and_latency_sampling_reproduced": true,
+  "hashed_files": 34,
+  "independent_sklearn_ndcg_checks": 1050,
+  "latency_trials": 180,
+  "methods": [
+    "bm25",
+    "dense",
+    "bm25_reranked"
+  ],
+  "model_inference_repeated": false,
+  "notebook_code_cells_unchanged": 13,
+  "notebook_saved_json_outputs_match_archive": true,
+  "query_method_rankings": 1050,
+  "scope": "Saved evidence consistency; not a repeat of model inference or a relevance-label audit.",
+  "source_data_and_qrels_match_pinned_revisions": true,
+  "status": "passed",
+  "uploaded_archive_sha256": "6f9860b840ffe8b0944a90bcff98407d0ec6954192895c7b37f3f734c99f6950",
+  "uploaded_notebook_sha256": "2ee1a39c58d271d8e8e064f16c7d6eaabedc9634cfa35491f32072a7aa781659",
+  "notebook_display_tables_checked": 3
+}

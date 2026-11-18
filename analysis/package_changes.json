@@ -1,0 +1,12 @@
+{
+  "executed_code_cells_preserved": 13,
+  "numerical_outputs_preserved": true,
+  "original_result_files_preserved": 35,
+  "notebook_display_cleanup": {
+    "progress_outputs": 26,
+    "download_outputs": 2,
+    "stream_metadata": 0,
+    "colab_mime_fields": 5
+  },
+  "added": "Verified result summaries, limits, and five development-query observations; original code, rankings and qrels unchanged."
+}
